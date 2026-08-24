@@ -1,15 +1,15 @@
 <mxfile host="65bd71144e">
     <diagram id="LfC_yEvnW1vKVA945ha2" name="ページ1">
-        <mxGraphModel dx="1786" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+        <mxGraphModel dx="3480" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="121" value="" style="group" vertex="1" connectable="0" parent="1">
-                    <mxGeometry width="1192.77" height="1100" as="geometry"/>
+                <mxCell id="121" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry y="30" width="1192.77" height="1100" as="geometry"/>
                 </mxCell>
-                <UserObject label="開始" mermaidId="n:A" mermaidBaseStyle="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="開始" id="82">
+                <UserObject label="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 19px;&quot;&gt;バーコードが&lt;/span&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 19px;&quot;&gt;読み込まれた&lt;/div&gt;" mermaidId="n:A" mermaidBaseStyle="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="開始" id="82">
                     <mxCell style="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" parent="121" vertex="1">
-                        <mxGeometry x="856.3476923076922" width="81.55692307692307" height="39.75903614457831" as="geometry"/>
+                        <mxGeometry x="820" width="150" height="39.76" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="バーコードが正常に&lt;div&gt;読み込めたか？&lt;/div&gt;" mermaidId="n:B" mermaidBaseStyle="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="バーコードが正常に読み込めたか？" id="83">
