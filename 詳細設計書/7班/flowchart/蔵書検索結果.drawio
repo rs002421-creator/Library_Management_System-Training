@@ -1,10 +1,10 @@
 <mxfile host="65bd71144e">
     <diagram name="ページ-1" id="mumlvV8ZZGj4d66a3S99">
-        <mxGraphModel dx="1786" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+        <mxGraphModel dx="857" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="174" value="" style="group;fontSize=25;" vertex="1" connectable="0" parent="1">
+                <mxCell id="174" value="" style="group;fontSize=25;" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="253" width="693.34" height="1920" as="geometry"/>
                 </mxCell>
                 <UserObject label="検索結果取得" mermaidId="n:A" mermaidBaseStyle="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="検索結果取得" id="131">
@@ -27,9 +27,6 @@
                         <mxGeometry y="586.6666666666666" width="213.3353846153846" height="53.33333333333333" as="geometry"/>
                     </mxCell>
                 </UserObject>
-                <mxCell id="135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=25;" parent="174" source="136" target="133" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
                 <UserObject label="タイトルを先頭20文字のみ表示" mermaidId="n:F" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="タイトルを先頭20文字のみ表示" id="136">
                     <mxCell style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=25;" parent="174" vertex="1">
                         <mxGeometry x="426.6707692307692" y="586.6666666666666" width="213.3353846153846" height="53.33333333333333" as="geometry"/>
@@ -91,7 +88,7 @@
                     </mxCell>
                 </UserObject>
                 <UserObject label="" mermaidId="e:B-&gt;C#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="" id="148">
-                    <mxCell style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=25;" parent="174" source="132" edge="1">
+                    <mxCell style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=25;entryDx=0;entryDy=0;" parent="174" source="132" edge="1" target="170">
                         <mxGeometry relative="1" as="geometry">
                             <Array as="points"/>
                             <mxPoint x="320.00307692307695" y="213.33333333333331" as="targetPoint"/>
@@ -232,12 +229,6 @@
                         </mxGeometry>
                     </mxCell>
                 </UserObject>
-                <mxCell id="164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=25;" parent="174" source="140" target="140" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=25;" parent="174" source="139" target="139" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
                 <mxCell id="166" value="" style="endArrow=none;html=1;rounded=0;fontSize=25;startSize=8;endSize=8;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="174" target="134" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <Array as="points">
